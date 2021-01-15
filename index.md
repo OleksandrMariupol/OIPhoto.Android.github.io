@@ -10,7 +10,7 @@ If you want to report to us about some bugs or you have some questions about the
 
 Privacy Policy
 
-	This Private Policy explains how this app deals with the users' personal identifiable information ('UPII'). 
+This Private Policy explains how this app deals with the users' personal identifiable information ('UPII'). 
 
 Ads - Our app may use some providers to show ads. These ads providers use cookies only to identify your device, then show ads from Google AdMob platform. We don't share any users' data with Facebook, Instagram, Twitter or other parties.
 
