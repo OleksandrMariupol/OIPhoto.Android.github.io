@@ -10,8 +10,6 @@ If you want to report to us about some bugs or you have some questions about the
 
 Privacy Policy
 
-This Private Policy explains how this app deals with the users' personal identifiable information ('UPII'). 
-
 Ads - Our app may use some providers to show ads. These ads providers use cookies only to identify your device, then show ads from Google AdMob platform. We don't share any users' data with Facebook, Instagram, Twitter or other parties.
 
 Generally, we do not collect any UPII from you when you download our Android applications. To be specific, we do not require the consumers to get registered before or after downloading the application, nor do we keep track of the consumers' visits of our application or some other user activity. We even don't have a Server to store any UPII.
